@@ -80,7 +80,6 @@ python drowsiness_yolo_pose.py --model yolo11n-pose.onnx --image person.jpg --sh
 - 最適な結果を得るためには、人物の顔と上半身がはっきり見えていることを確認してください<br>
 - このシステムは単一画像の分析用に設計されています。リアルタイムモニタリングには追加のコードが必要です<br>
 
-
 ## 参考
 ポーズ推定のためのUltralytics YOLO11 使い方<br>
 https://www.ultralytics.com/ja/blog/how-to-use-ultralytics-yolo11-for-pose-estimation<br>
@@ -89,3 +88,5 @@ https://www.ultralytics.com/ja/blog/how-to-use-ultralytics-yolo11-for-pose-estim
  居眠り検知エッジAIの製作 ～なんと最高26TOPS！ ラズパイ用AI拡張ボード「AI Kit」試用レポート～<br>
 https://toragi.cqpub.co.jp/download2025/<br>
 
+ぱくたそさんの画像を使用しました。<br>
+https://www.pakutaso.com/20220656172post-40167.html<br>
